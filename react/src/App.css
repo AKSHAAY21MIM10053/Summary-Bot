@@ -1,0 +1,120 @@
+.increasevph{
+    min-height: 83vh;
+}
+
+.navbarcolour {
+    background-color:#1E201E !important; /* Dark Blue */
+}
+
+.footbarcolour {
+    background-color: #1E201E !important; /* Dark Blue */
+}
+
+
+/* Change brand font color and size */
+.navbar-brand {
+    color: white !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-size: 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+    color:#ECDFCC     !important; /* Light Grey */
+    font-size: 1rem;
+}
+
+.btn-secondary {
+    background-color: rgb(212, 34, 34)  !important; /* Red */
+    border-color: #c0392b !important;
+    color: white !important;
+}
+
+.btn-secondary:hover {
+    background-color: rgba(255, 0, 0, 0.597) !important; /* Darker Red */
+    border-color: #a93226 !important;
+}
+
+
+.navbar-toggler {
+    border-color: white !important;
+}
+
+.bodycolour{
+    background-color: #3C3D37;
+}
+
+/* Change text color to white */
+.footbarcolour span,
+.footbarcolour a {
+    color: white !important;
+}
+
+/* Change icon colors */
+.footbarcolour a i {
+    font-size: 1.2rem;
+    color: white !important;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Hover effect for icons */
+.footbarcolour a i:hover {
+    color: #ECDFCC !important; /* Light Yellow */
+}
+
+.Loginbutton{
+    background-color: rgb(51, 209, 2)  !important; /* Red */
+    border-color: #00950a !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.Registerbutton{
+    background-color: rgb(3, 91, 255)  !important; /* Red */
+    border-color: #5041f4 !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.heroback{
+    padding: auto;
+    background-color: #E2F1E7;
+    color:#1E201E;
+    border: 10px solid #3C3D37;
+}
+
+.heroback h1{
+    color: #3C3D37 !important;
+}
+
+.heroback h2{
+    color:#3C3D37 !important;
+}
+
+#featured-3 h2 {
+    border-bottom: 3px solid #3C3D37 !important; /* Pink underline */
+}
+
+.feature h3 {
+    color: #3C3D37 !important;
+}
+
+.feature-icon {
+    width: 60px; /* Adjust size */
+    height: 60px;
+    border-radius: 50%; /* Circular shape */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bgcolour{
+    background-color: #E2F1E7;
+}
+
+.linkdeco{
+    text-decoration: none;
+    color: white;
+}
