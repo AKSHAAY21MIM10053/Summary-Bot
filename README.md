@@ -1,4 +1,4 @@
 ﻿# SummaryBot
 
 demo youtube video link
-<iframe width="560" height="315" src="https://youtu.be/S_7Zz7qU5fY" frameborder="0" allowfullscreen></iframe>
+https://drive.google.com/file/d/1uDO1MI0Q2U3pWlh1-UYRW-gZIuHPcWJO/view?usp=sharing
